@@ -12,16 +12,19 @@ xcode9 ，ios8以上
 
 ![Alt text](https://github.com/weiman152/SizeClassDemo/blob/master/ScreenShots/video.gif)
 
-\n\n
+<br><br>
 
 横屏：
-\n
+<br>
 ![Alt text](https://github.com/weiman152/SizeClassDemo/blob/master/ScreenShots/111.png)
 
-竖屏：
+<br><br>
 
-\n
+竖屏：
+<br>
 ![Alt text](https://github.com/weiman152/SizeClassDemo/blob/master/ScreenShots/222.png)
+
+<br><br>
 
 具体实现的话可以看demo，详细实现说明看文档也可以。
 
